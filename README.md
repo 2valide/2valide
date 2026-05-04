@@ -1,8 +1,8 @@
 ### Hey, I'm Anthony 👋🏽
 
-I'm a 19-year-old developer based in France.
+I'm a 21-year-old developer based in France.
 
-- Check out my [website](https://anthonyzhao.fr) to learn more about me.
+- Check out my [website](https://azhao.fr) to learn more about me.
 - Explore my [LinkedIn](https://www.linkedin.com/in/anthony-zhao-0331b6298)
 - Check out my [CodeWars](https://www.codewars.com/users/2valide)
 - And finally my [github](https://github.com/2valide)
